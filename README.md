@@ -23,7 +23,8 @@
 </head>
 <body>
     <h1>مولد الأرقام العشوائية المتقدم</h1>
-    <button onclick="generateRandomNumber()">توليد رقم عشوائي</button>
+    <button onclick="generateRandomN![1722798654919813610270792671068](https://github.com/user-attachments/assets/bf58377f-7b93-43b2-84c0-6d04a3972c20)
+umber()">توليد رقم عشوائي</button>
     <div id="result">0</div>
 
     <script>
